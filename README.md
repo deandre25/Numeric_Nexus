@@ -11,3 +11,5 @@ This game is developed using the following technologies:
 -  JavaScript (JS): The core logic of the game is written in JavaScript, handling user input, game mechanics, and logic.
 -  HTML: The structure of the game interface is defined using HTML markup.
 -  SCSS (Sass): SCSS is used for styling the game interface, providing flexibility and maintainability through nested styles and variables.
+
+[DEMO LINK](https://deandre25.github.io/Numeric_Nexus/)
